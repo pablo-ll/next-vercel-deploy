@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/_app.tsx", "pages/abaut.tsx", "components/layout/DarkLayout.tsx", "components/ActiveLink.tsx", "components/Navabar.tsx"],
   "exclude": ["node_modules"]
 }
